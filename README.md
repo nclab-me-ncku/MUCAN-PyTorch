@@ -1,5 +1,5 @@
 # MUCAN-PyTorch
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)  
 Implementation of **M**asked **U**-net-based **C**ycle-Consistent **A**dversarial **N**etworks  
 
 ---
