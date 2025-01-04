@@ -1,0 +1,8 @@
+numpy==1.22.4
+pandas==1.4.3
+py-cpuinfo
+scipy==1.9.0
+scikit-learn==1.4.0
+statsmodels
+tabulate
+torch
