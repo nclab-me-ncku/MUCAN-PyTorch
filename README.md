@@ -1,5 +1,6 @@
 # MUCAN-PyTorch
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)  
+Jhih-Siang Huang, Wei-Chen Chen, and Shih-Hung Yang, "Mitigating Neural Variability in Intracortical Brain-Computer Interfaces Using Masked U-Net-Based Cycle-Consistent Adversarial Networks," under review,IEEE Journal of Biomedical and Health Informatics.
 Implementation of **M**asked **U**-net-based **C**ycle-Consistent **A**dversarial **N**etworks  
 
 ## ABSTRACT
