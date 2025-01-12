@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)  
 
 This work implements the following paper for intracortical brain-computer interfaces, which is currently under review.  
-Jhih-Siang Huang, Wei-Chen Chen, and Shih-Hung Yang, "Mitigating Neural Variability in Intracortical Brain-Computer Interfaces Using Masked U-Net-Based Cycle-Consistent Adversarial Networks," under review,IEEE Journal of Biomedical and Health Informatics.
+"Robust Motor Decoding Using Distribution Alignment Without Recalibrating Intracortical Brain-Computer Interfaces," under review, 2025.
 
 
 ## ABSTRACT
