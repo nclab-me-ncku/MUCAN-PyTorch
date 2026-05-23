@@ -1,8 +1,8 @@
 # **M**asked __**U**__-Net-Based **C**ycle-Consistent **A**dversarial **N**etworks (MUCAN) - PyTorch
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)  
 
-This work implements the following paper for intracortical brain-computer interfaces, which is currently under review.  
-"Robust Motor Decoding Using Distribution Alignment Without Recalibrating Intracortical Brain-Computer Interfaces," under review, 2025.
+Feel free to utilize the code and cite this paper.
+Jhih-Siang Huang, Chih-Hsuan Wu, Wei-Chen Chen, Yueh-Huan Lee, and Shih-Hung Yang, "Robust Motor Decoding Using Distribution Alignment Without Recalibrating Intracortical Brain-Computer Interfaces," IEEE Transactions on Cognitive and Developmental Systems, Accepted, 2026.
 
 
 ## ABSTRACT
