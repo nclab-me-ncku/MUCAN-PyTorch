@@ -2,6 +2,7 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)  
 
 Feel free to utilize the code and cite this paper.
+
 Jhih-Siang Huang, Chih-Hsuan Wu, Wei-Chen Chen, Yueh-Huan Lee, and Shih-Hung Yang, "Robust Motor Decoding Using Distribution Alignment Without Recalibrating Intracortical Brain-Computer Interfaces," _IEEE Transactions on Cognitive and Developmental Systems_, Accepted, 2026.
 
 
